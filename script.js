@@ -5,7 +5,7 @@ alert("Terus juga Animasiku ga kesave");
 alert("cape banget rasanya dari pagi depan layar terus");
 alert("Pusing, cape, ngantuk");
 alert("tapi..");
-alert("Aku semua itu ga bikin aku lupa tentang satu hal");
+alert("Semua itu ga bikin aku lupa tentang satu hal");
 alert("Aku ga bakal lupa klo hari ini kamu ulang tahun");
 alert("hehe selamat ulang tahun ya sayang");
 alert("semoga keinginan dan cita2 kamu terwujud");
