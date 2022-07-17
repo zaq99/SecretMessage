@@ -1,0 +1,15 @@
+alert("Aku sibuk banget hari ini");
+alert("Aku cape banget hari ini");
+alert("Masa IoTku kodingannya erorr terus");
+alert("Terus juga Animasiku ga kesave");
+alert("cape banget rasanya dari pagi depan layar terus");
+alert("Pusing, cape, ngantuk");
+alert("tapi..");
+alert("Aku semua itu ga bikin aku lupa tentang satu hal");
+alert("Aku ga bakal lupa klo hari ini kamu ulang tahun");
+alert("hehe selamat ulang tahun ya sayang");
+alert("semoga keinginan dan cita2 kamu terwujud");
+alert("semoga makin jadi lebih baik lagi dari sebelumnya");
+alert("WISH YOU ALL THE BEST !");
+alert("Happy Birthday, Princess bubble gum");
+alert("I love you..");
