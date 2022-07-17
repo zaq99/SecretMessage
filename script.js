@@ -1,3 +1,4 @@
+alert("maaf ya kalo aku");
 alert("Aku sibuk banget hari ini");
 alert("Aku cape banget hari ini");
 alert("Masa IoTku kodingannya erorr terus");
